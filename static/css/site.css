@@ -1,4 +1,23 @@
-.site-heading > h1 {
+
+
+.site-heading-logo > img {
+    max-width: 90%;
+}
+
+.site-heading-text {
+    margin-top: 10px !important;
     text-shadow: 2px 0px 12px rgb(61, 61, 61);
 }
+
+@media only screen and (min-width: 400px) {
+    .site-heading-logo > img {
+        max-width: 60%;
+    }
+} 
+
+@media only screen and (min-width: 600px) {
+    .site-heading-logo > img {
+        max-width: 35%;
+    }
+} 
 
