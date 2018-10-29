@@ -9,9 +9,9 @@ weight = -190
 
 <div style="display: flex; align-items: center; align-content: center; justify-content: center;"><img style="border-radius: 180px;" width="50%" src="/img/about.jpg"/></div>
 
-**The channel is currently scheduled to launch on Monday, November 29, 2018**
+**The BroWillow vlog is currently scheduled to launch on Monday, November 29, 2018**
 
-My name is Jordan Osier, also known on the internet as **BroWillow**. I maintain a video channel on Facebook and YouTube for the purpose of publicly discussing the thoughts and questions I have in theology, philosophy, science, and politics. My videos are meant to challenge, educate, encourage civil discussion, and invite others to join me in my quest for truth. I post new videos **every Monday at 6:00 AM EST**.
+My name is Jordan Osier, also known on the internet as **BroWillow**. I maintain a vlog on Facebook and YouTube for the purpose of publicly discussing the thoughts and questions I have in theology, philosophy, science, and politics. My videos are meant to challenge, educate, encourage civil discussion, and invite others to join me in my quest for truth. I post new videos **every Monday at 6:00 AM EST**.
 
 I was born to American missionaries in Spain in the early nineties and lived there for eight years. After our family returned to the U.S., we eventually settled in the Tennessee valley where I spent the majority of my life from middle school up until graduating from college. My undergraduate program ended in 2014 with a Bachelors of Science in electrical engineering, moving to Virginia to marry my wife, and starting a career as a software engineer. Since then, I've mostly spent my spare time with my family, playing music and volunteering at my church, and waking up before dawn to work on my own ideas for building the next Facebook-level software company (and learning how difficult it is to do on your own).
 
