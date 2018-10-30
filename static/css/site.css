@@ -1,7 +1,7 @@
 
 
 .site-heading-logo > img {
-    max-width: 90%;
+    max-width: 70%;
 }
 
 .site-heading-text {
@@ -11,7 +11,7 @@
 
 @media only screen and (min-width: 400px) {
     .site-heading-logo > img {
-        max-width: 60%;
+        max-width: 45%;
     }
 } 
 

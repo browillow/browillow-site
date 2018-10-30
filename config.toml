@@ -5,7 +5,7 @@ paginate = 10
 theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
 copyright = "Copyright 2018: Jordan Lee Osier"
-#googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS generation
+googleAnalytics = "UA-128351354-1" # delete or comment to disable Google Analytics JS generation
 #disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus comments
 
 [author]
