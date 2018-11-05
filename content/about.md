@@ -9,7 +9,7 @@ weight = -190
 
 <div style="display: flex; align-items: center; align-content: center; justify-content: center;"><img style="border-radius: 180px;" width="50%" src="/img/about.jpg"/></div>
 
-**The BroWillow vlog is currently scheduled to launch on Monday, November 29, 2018**
+**The BroWillow vlog is currently scheduled to launch on Monday, December 03, 2018**
 
 My name is Jordan Osier, also known on the internet as **BroWillow**. I maintain a vlog on Facebook and YouTube for the purpose of publicly discussing my thoughts and questions in theology, philosophy, science, and politics. My videos are meant to challenge, educate, encourage civil discussion, and invite others to join me in my quest for truth. I post new videos **every Monday at 6:00 AM EST**.
 
