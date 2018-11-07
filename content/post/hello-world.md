@@ -8,7 +8,7 @@ author:
 date: 2018-10-28T07:00:00-05:00
 draft: true
 tags:
-- update
+- updates
 categories:
 - Vlog
 ---

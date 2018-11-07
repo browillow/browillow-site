@@ -9,7 +9,7 @@ draft: false
 tags:
 - updates
 categories:
-- BroWillow Vlog
+- Vlog
 ---
 
 This site is currently being built in preparation of the launch of the BroWillow vlog.
