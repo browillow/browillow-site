@@ -4,7 +4,7 @@ canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
-copyright = "Copyright 2018: Jordan Lee Osier"
+copyright = "Copyright 2019: Jordan Lee Osier"
 googleAnalytics = "UA-128351354-1" # delete or comment to disable Google Analytics JS generation
 #disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus comments
 
@@ -28,7 +28,7 @@ googleAnalytics = "UA-128351354-1" # delete or comment to disable Google Analyti
   url = "https://www.youtube.com/channel/UCfWmwxEIMU018Dzj52HghfQ"
 [[params.social]]
   title = "facebook"
-  url = "https://www.facebook.com/BroWillow"
+  url = "https://www.facebook.com/BroWillow-255632765124536"
 [[params.social]]
   title = "instagram"
   url = "https://www.instagram.com/BroWillow"
